@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "347372865399",
+    "project_id": "fast-inspection",
+    "storage_bucket": "fast-inspection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347372865399:android:3d48aaa9969720ad008372",
+        "android_client_info": {
+          "package_name": "com.app.fastinspection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5TxJdfDYxNGU3HuV2Fv8gtUPM2CoYg_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
